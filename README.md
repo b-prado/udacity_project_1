@@ -35,7 +35,7 @@ There are 2 .csv and 1 .pdf files:
 2. survey_results_schema.csv - CSV file with survey schema, i.e., the questions that correspond to each column name
 3. so_survey_2020.pdf - PDF file of survey instrument
 
-You call download everything here:
+You can download everything here:
 https://drive.google.com/file/d/1dfGerWeWkcyQ9GX9x20rdSGj7WtEpzBB/view
 
 
