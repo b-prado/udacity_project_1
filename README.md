@@ -42,7 +42,7 @@ https://drive.google.com/file/d/1dfGerWeWkcyQ9GX9x20rdSGj7WtEpzBB/view
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@bruno_prado/3-facts-about-developers-you-didnt-know-bb3d7a867c13).
+The main findings of the code can be found at the post available [here](https://bruno-prado.medium.com/3-facts-about-developers-you-didnt-know-bb3d7a867c13).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
